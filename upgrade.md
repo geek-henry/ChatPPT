@@ -21,7 +21,7 @@ Upgrade python from v3.10 to v3.12
 | `langchain_openai` | 0.1.25 | **1.0.3** | 🔺 Major Upgrade |
 | `langchain_community` | 0.2.17 | ❌ Removed | 🗑️ Cleanup (unused) |
 | `langchain_ollama` | 0.1.3 | ❌ Removed | 🗑️ Cleanup (unused) |
-| `pydantic` |  | 2.10.6 | ✅ Gradio in Python 3.12|
+
 
 ### **Supporting Dependencies Updated**
 | Package | Before | After | Reason |
@@ -31,3 +31,4 @@ Upgrade python from v3.10 to v3.12
 | `torch` | 2.5.0 | **2.9.1** | Latest stable version |
 | `torchvision` | 0.20.0 | **0.24.1** | Compatibility with torch 2.9.1 |
 | `sentencepiece` | 0.1.99 | **0.2.1** | Stability improvements |
+| `pydantic` |  | 2.10.6 | ✅ Gradio run in Python 3.12|
